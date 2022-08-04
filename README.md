@@ -22,3 +22,10 @@ In this repository, AD detection has been performed by utilizing a dataset from 
 ## Dataset
 
 In this repository, AD detection has been performed by utilizing a dataset from [Kaggle](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images) and AlexNet, which may result in superior performance.
+
+## Feedback
+If you have any feedback, please reach out to me at farhaad.abedinzade@gmail.com ![Logo](https://user-images.githubusercontent.com/96732467/182937931-61188eea-453f-48af-8aef-a8a24479a5db.png)
+
+
+
+
