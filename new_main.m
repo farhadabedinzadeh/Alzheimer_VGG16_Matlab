@@ -1,4 +1,7 @@
 clear;close;clc
+%% '================ Written by Farhad AbedinZadeh ================'
+%                                                                  %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 
 %Kaggle Dataset
 % https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images?select=Alzheimer_s+Dataset
