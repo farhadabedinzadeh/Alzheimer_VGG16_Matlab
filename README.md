@@ -1,5 +1,5 @@
 
-# Alzheimer Disease Detection using VGG16 And ReduceLROnPlateau
+# Alzheimer Disease Detection using VGG16 And SMOTE
 
 A brief description of what this project does and who it's for
 
