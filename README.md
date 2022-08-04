@@ -23,6 +23,11 @@ In this repository, AD detection has been performed by utilizing a dataset from 
 
 In this repository, AD detection has been performed by utilizing a dataset from [Kaggle](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images) and AlexNet, which may result in superior performance.
 
+## SMOTE(Synthetic Minority Oversampling Technique)
+Imbalanced classification entails building predictive models on classification datasets with a high degree of class imbalance.
+Working with unbalanced datasets presents the difficulty that most machine learning algorithms will overlook, and so perform poorly on, the minority class, despite the fact that performance on the minority class is often the most essential.
+Oversampling the minority class is one method for dealing with unbalanced datasets. The most basic method is duplicating instances from the minority class, even if these examples offer no new information to the model. Instead, new instances may be created by combining old ones. The Synthetic Minority Oversampling Technique, or SMOTE in brief, is a kind of data augmentation for the minority class.
+
 ## Feedback
 If you have any feedback, please reach out to me at farhaad.abedinzade@gmail.com ![Logo](https://user-images.githubusercontent.com/96732467/182937931-61188eea-453f-48af-8aef-a8a24479a5db.png)
 
